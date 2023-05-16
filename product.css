@@ -71,3 +71,9 @@
   span { 
     color: grey;
   }
+
+  .img-2 { 
+    width: 520px;
+    height: 310px;
+    border-radius: 20%
+  }
