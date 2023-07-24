@@ -1,4 +1,4 @@
 # WE-Bikes
-WE-Bike is a website for a school project i need to do, the project is about advertisement, we needed to make an add and make a product, i took a website to show my classmates.
+WE-Bike is a website for a school project I needed to make, the project is about advertisement. We were supposed to make an ad for a imaginary product, so I made this website to show my classmates.
 
 Visit our website: https://lolfuchs.github.io/WE-Bikes/ 
